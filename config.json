@@ -1,0 +1,8 @@
+{
+    "nodes": [
+        "https://api.hive-engine.com/rpc",
+        "http://api2.hive-engine.com:5000"
+    ],
+    "lastSSCBlockParsed": 2447285,
+    "pollingTime": 1000
+}
