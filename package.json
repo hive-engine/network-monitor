@@ -20,6 +20,7 @@
   "dependencies": {
     "fs-extra": "^9.0.1",
     "node-cleanup": "^2.1.2",
+    "nodemailer": "^6.4.14",
     "sscjs": "0.0.8"
   }
 }
